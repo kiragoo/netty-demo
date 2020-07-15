@@ -1,4 +1,4 @@
-package nio;
+package com.kirago.demo.nio;
 
 import java.io.IOException;
 import java.nio.ByteBuffer;

@@ -1,7 +1,7 @@
-package nio.server;
+package com.kirago.demo.nio.server;
 
-import nio.ChannelAdapter;
-import nio.ChannelHandler;
+import com.kirago.demo.nio.ChannelAdapter;
+import com.kirago.demo.nio.ChannelHandler;
 
 import java.io.IOException;
 import java.nio.channels.Selector;

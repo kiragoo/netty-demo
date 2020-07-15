@@ -1,4 +1,4 @@
-package nio.server;
+package com.kirago.demo.nio.server;
 
 
 import java.io.IOException;

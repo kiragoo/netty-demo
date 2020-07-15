@@ -1,4 +1,4 @@
-package nio.client;
+package com.kirago.demo.nio.client;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
